@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Yana Makogon
 
-I am a Software Engineer with almost a year of experience in development and over 8 years in software testing and automation. I have a solid foundation in Java and C# .NET and am actively enhancing my skills in building software solutions.
+I am a Software Engineer with over 8 years in software testing and automation and almost a year of experience in development. I have a solid foundation in Java and C# .NET and am actively enhancing my skills in building software solutions.
 
 ## Technologies and Skills
 - 🔧 C#, .NET, ASP.NET, MVC

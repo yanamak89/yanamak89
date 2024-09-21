@@ -27,4 +27,4 @@ I am a Software Engineer with over 8 years in software testing and automation an
 - 📝 [Telegram: Yana's Tech & QA Corner](https://t.me/+4fc8JCCF6BlmNmNi)
 
 ## My CV
-[Download CV](https://github.com/yanamak89/yanamak89/blob/main/Yana_Makogon_-_Software_Engineer.pdf)
+[Download CV_Yana_Makogon](https://github.com/yanamak89/yanamak89/blob/main/Yana_Makogon_-_Software_Engineer.pdf)

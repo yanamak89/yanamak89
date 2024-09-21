@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello! 👋 I'm Yana Makogon
 
-<!--
-**yanamak89/yanamak89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer with almost a year of experience in development and over 8 years in software testing and automation. I have a solid foundation in Java and C# .NET and am actively enhancing my skills in building software solutions.
 
-Here are some ideas to get you started:
+## Technologies and Skills
+- 🔧 C#, .NET, ASP.NET, MVC
+- 🛠 Java, Entity Framework, SQL
+- 🌐 HTML, CSS
+- 🔬 Selenium, RestAPI, Postman, Docker
+- ☁️ Azure DevOps, CI/CD, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+1. [Snake_Game](https://github.com/yanamak89/Snake_Game) — a console game in C#.
+2. [Pomodoro_Timer](https://github.com/yanamak89/Pomodoro_Timer) — a console game in C#.
+3. [Space Invaders Console Game](https://github.com/yanamak89/space-invaders-console-game) — a console game in C#.
+
+## Education
+- **Bachelor of Software Development**, IU International University of Applied Sciences (October 2022 — Present)
+- **Master of Law**, Donetsk National University, Economics and Law Faculty, Donetsk, Ukraine
+
+## Contact Information
+- 📧 Email: yana.makogon@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yana-mac/)
+
+## Follow Me:
+- 🐙 [GitHub](https://github.com/yanamak89)
+- 📝 [Telegram: Yana's Tech & QA Corner](https://t.me/+4fc8JCCF6BlmNmNi)
+
+## My CV
+[Download CV](https://github.com/yanamak89/yanamak89/blob/main/Yana_Makogon_-_Software_Engineer.pdf)

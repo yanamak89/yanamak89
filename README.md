@@ -10,9 +10,11 @@ I am a Software Engineer with over 8 years in software testing and automation an
 - ☁️ Azure DevOps, CI/CD, Git
 
 ## My Projects
-1. [Snake_Game](https://github.com/yanamak89/Snake_Game) — a console game in C#.
-2. [Pomodoro_Timer](https://github.com/yanamak89/Pomodoro_Timer) — a console game in C#.
-3. [Space Invaders Console Game](https://github.com/yanamak89/SpaceInvidersGame) — a console game in C#.
+1. [LibraryManagerApp](https://github.com/yanamak89/LibraryManagerApp/tree/master) — is a web application using C#, Entity Framework, and ASP.NET Core, offering a reliable and user-friendly interface for library management.
+2. [Space Invaders Console Game](https://github.com/yanamak89/SpaceInvidersGame) — a console game in C#.
+3. [Pomodoro_Timer](https://github.com/yanamak89/Pomodoro_Timer) — a console game in C#.
+4. [Snake_Game](https://github.com/yanamak89/Snake_Game) — a console game in C#.
+
 
 ## Education
 - **Bachelor of Software Development**, IU International University of Applied Sciences (October 2022 — Present)

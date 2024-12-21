@@ -6,7 +6,7 @@ I am a Software Engineer with over 8 years in software testing and automation an
 - 🔧 C#, .NET, ASP.NET, MVC
 - 🛠 Java, Entity Framework, SQL
 - 🌐 HTML, CSS
-- 🔬 Selenium, RestAPI, Postman, Docker
+- 🔬 PlayWright, Selenium, RestAPI, Postman, Docker
 - ☁️ Azure DevOps, CI/CD, Git
 
 ## My Projects

@@ -18,6 +18,7 @@ I am a software engineer with 9+ years of experience in software testing and aut
 6. [Snake_Game](https://github.com/yanamak89/Snake_Game) — a console game in C#.
 7. [TaskTracker](https://github.com/yanamak89/TaskTracker) — is a simple console application using C#, app  helps you manage tasks by allowing you to add, update, delete, and track their statuses efficiently.
 8. [ExpenseTrackerCLI](https://github.com/yanamak89/ExpenseTrackerCLI) — a simple Command-Line Interface (CLI) Expense Tracker built with C#. This tool allows users to manage personal finances efficiently from the terminal.
+9. [Single-Page CV](https://github.com/yanamak89/yana-makogon-html-cv-project) — a semantic, responsive single-page CV built with HTML & CSS. Features include SEO tags, Open Graph, favicons, theme toggle and clean layout.
 
 
 ## Education
@@ -33,4 +34,4 @@ I am a software engineer with 9+ years of experience in software testing and aut
 - 📝 [Telegram: Yana's Tech & QA Corner](https://t.me/+4fc8JCCF6BlmNmNi)
 
 ## My CV
-[Download CV_Yana_Makogon](https://github.com/yanamak89/yanamak89/blob/main/Yana_Makogon-Senior_AQA:Lead_AQA_engineer.pdf)
+[Web_Page CV_Yana_Makogon]([https://github.com/yanamak89/yanamak89/blob/main/Yana_Makogon-Senior_AQA:Lead_AQA_engineer.pdf](https://yanamak89.github.io/yana-makogon-html-cv-project/))

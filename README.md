@@ -34,4 +34,4 @@ I am a software engineer with 9+ years of experience in software testing and aut
 - 📝 [Telegram: Yana's Tech & QA Corner](https://t.me/+4fc8JCCF6BlmNmNi)
 
 ## My CV
-[Web_Page CV_Yana_Makogon](https://github.com/yanamak89/yanamak89/blob/main/Yana_Makogon-Senior_AQA:Lead_AQA_engineer.pdf)
+[Web_Page CV_Yana_Makogon](https://yanamak89.github.io/yana-makogon-html-cv-project/)

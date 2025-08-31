@@ -19,6 +19,7 @@ I am a software engineer with 9+ years of experience in software testing and aut
 7. [TaskTracker](https://github.com/yanamak89/TaskTracker) — is a simple console application using C#, app  helps you manage tasks by allowing you to add, update, delete, and track their statuses efficiently.
 8. [ExpenseTrackerCLI](https://github.com/yanamak89/ExpenseTrackerCLI) — a simple Command-Line Interface (CLI) Expense Tracker built with C#. This tool allows users to manage personal finances efficiently from the terminal.
 9. [Single-Page CV](https://github.com/yanamak89/yana-makogon-html-cv-project) — a semantic, responsive single-page CV built with HTML & CSS. Features include SEO tags, Open Graph, favicons, theme toggle and clean layout.
+10. [Portfolio website](https://github.com/yanamak89/basic-html-website) - a responsive personal portfolio built with HTML & CSS. It showcases projects, skills, and contact information in a clean and structured layout, serving as a foundation for further styling and enhancements.
 
 
 ## Education

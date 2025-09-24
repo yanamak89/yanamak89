@@ -9,7 +9,7 @@ I am a software engineer with 9+ years of experience in software testing and aut
 ## Technologies and Skills
 - 🔧 C#, .NET, ASP.NET, MVC
 - 🛠 Java, Entity Framework, SQL
-- 🌐 HTML, CSS
+- 🌐 HTML, CSS, JavaScript
 - 🔬 PlayWright, Selenium, RestAPI, Postman, Docker
 - ☁️ Azure DevOps, CI/CD, Git
 

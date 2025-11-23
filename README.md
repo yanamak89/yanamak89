@@ -1,10 +1,10 @@
 # Hello! 👋 I'm Yana Makogon
 
-I am a software engineer with 9+ years of experience in software testing and automation and almost a 2 years of experience in development. I have a solid foundation in Java and C# .NET and am actively enhancing my skills in building software solutions.
+I am a software engineer with 9+ years of experience in software testing and automation and 2 years of experience in software development. I have a solid foundation in Java and C# .NET and am actively enhancing my skills in building software solutions.
 
 ### Current Roles
-- **Senior QA Engineer** — [MacQuality](https://www.linkedin.com/company/96682695/admin/dashboard/) (Guest Experience & QA Services)  
-- **Software Engineer** — [MacQuality](https://www.linkedin.com/company/96682695/admin/dashboard/) (Guest Experience & QA Services)  
+- **Software Engineer** — [MacQuality](https://www.linkedin.com/company/96682695/admin/dashboard/) (Guest Experience & QA Services) 
+- **Senior QA Engineer** — [MacQuality](https://www.linkedin.com/company/96682695/admin/dashboard/) 
 - **Founder & CTO** — [Scan&Serve](https://www.linkedin.com/company/108665740/admin/dashboard/) (B2B SaaS for HoReCa)  
 
 

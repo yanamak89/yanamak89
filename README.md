@@ -1,12 +1,7 @@
 # Hello! 👋 I'm Yana Makogon
 
-I am a software engineer with 9+ years of experience in software testing and automation and 2 years of experience in software development. I have a solid foundation in Java and C# .NET and am actively enhancing my skills in building software solutions.
-
-### Current Roles
-- **Software Engineer** — [MacQuality](https://www.linkedin.com/company/96682695/admin/dashboard/) 
-- **Senior QA Engineer** — [MacQuality](https://www.linkedin.com/company/96682695/admin/dashboard/) 
-- **Founder & CTO** — [Scan&Serve](https://www.linkedin.com/company/108665740/admin/dashboard/) (B2B SaaS for HoReCa)  
-
+With **9+ years in QA & Automation** and hands-on **Front-end** and **Back-end development** experience, I bring a full-stack quality mindset to every project. I build **scalable automation frameworks**, design **clean application logic**, and create **user-focused interfaces** with precision.
+My work demonstrates strong engineering skills across three domains - **Automation QA**, **Front-end**, **.NET Back-end**  showing my ability to analyse systems, design solutions, and deliver maintainable, production-ready work.
 
 ## Technologies and Skills
 - 🔧 C#, .NET, ASP.NET, MVC
@@ -15,10 +10,12 @@ I am a software engineer with 9+ years of experience in software testing and aut
 - 🔬 PlayWright, Selenium, RestAPI, Postman, Docker
 - ☁️ Azure DevOps, CI/CD, Git
 
-## My Projects
-1. [Front-end Portfolio](https://github.com/yanamak89/yanamak89/blob/main/Frontend_Portfolio_README.md) — HTML, CSS, JavaScript projects demonstrating UI development.
-2. [Back-end Portfolio](https://github.com/yanamak89/yanamak89/blob/main/Backend_Portfolio_README.md) — NET, C#, Entity Framework, CLI tools, and web applications showcasing server-side logic, data management, and structured application design.
-3. [Test and Automation QA Portfolio](https://github.com/yanamak89/yanamak89/blob/main/Automation_QA_Portfolio_README.md) — Playwright, Selenium, API testing, and CI/CD automation frameworks demonstrating strong skills in test engineering and automation architecture.
+## My Portfolios
+1. [QA and Automation QA Portfolio](https://github.com/yanamak89/yanamak89/blob/main/Automation_QA_Portfolio_README.md) —  complete demonstration of my QA engineering approach, including deep exploratory testing, structured test design, automation architecture built from scratch, and end-to-end testing using Playwright, Selenium, API testing, and CI/CD.
+   
+2. [Front-end Portfolio](https://github.com/yanamak89/yanamak89/blob/main/Frontend_Portfolio_README.md) — front-end projects demonstrating clean, accessible, responsive UI, semantic markup, modern layout systems (Flexbox, Grid), and interactive components built with vanilla HTML, CSS, and JavaScript.
+  
+3. [Back-end Portfolio](https://github.com/yanamak89/yanamak89/blob/main/Backend_Portfolio_README.md) — .NET/C# projects demonstrating ASP.NET Core CRUD applications, layered service architecture, EF Core modelling with repository patterns, CLI tools that showcase algorithmic thinking, and consistent, maintainable backend structures.
 
 ## Education
 - **Bachelor of Software Development**, IU International University of Applied Sciences (October 2022 — Present)

@@ -38,8 +38,7 @@ reusable components, and clear folder/page/test structure.
 
 **Description:**
 Shows my approach to exploratory testing (finding both functional and
-non-functional bugs), designing positive and negative test cases for a
-Discount Code feature, and creating stable, automation-ready CSS/XPath
+non-functional bugs), designing positive and negative test cases and creating stable, automation-ready CSS/XPath
 selectors for a dynamic UI.
 
 This assignment reflects my structured QA mindset, analytical testing

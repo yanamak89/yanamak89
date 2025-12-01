@@ -28,6 +28,9 @@ The page includes SEO meta tags, Open Graph integration, favicons, a theme toggl
 **Repository:**  
 👉 https://github.com/yanamak89/basic-html-website  
 
+**Live demo:**  
+👉 [https://yanamak89.github.io/youtube_project_website/](https://yanamak89.github.io/basic-html-website/)
+
 **Description:**  
 A responsive personal portfolio built with HTML & CSS.  
 It showcases projects, skills, and contact information in a clean and structured layout, serving as a foundation for further styling, JavaScript enhancements, and future iterations of my developer portfolio.
@@ -38,10 +41,10 @@ It showcases projects, skills, and contact information in a clean and structured
 
 ---
 ## 3. Youtube project
-👉 **Repository:**  
-https://github.com/yanamak89/youtube_project_website
+**Repository:**  
+👉 https://github.com/yanamak89/youtube_project_website
 
-**Live demo:** 
+**Live demo:**  
 👉 https://yanamak89.github.io/youtube_project_website/
 
 **Description:**  

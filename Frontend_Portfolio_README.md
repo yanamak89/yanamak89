@@ -37,8 +37,22 @@ It showcases projects, skills, and contact information in a clean and structured
 - CSS3  
 
 ---
+## 3. Youtube project
+👉 **Repository:**  
+https://github.com/yanamak89/youtube_project_website
 
-## 3. Calculator App
+**Live demo:** 
+👉 https://yanamak89.github.io/youtube_project_website/
+
+**Description:**  
+A simple, static website project that showcases a YouTube-style channel landing page. Built with semantic HTML and modern, modular CSS. Ideal for practising layout, typography, responsive design, and asset organisation.
+
+**Tech stack:**  
+- HTML5  
+- CSS3  
+
+---
+## 4. Calculator App
 
 **Repository:**  
 👉 https://github.com/yanamak89/calculator-project-js  

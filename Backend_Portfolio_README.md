@@ -71,7 +71,7 @@ The app includes session timers, break intervals, and clear console
 output.
 
 **Tech stack:**
-- C#\
+- C#
 - .NET Console
 
 ------------------------------------------------------------------------
@@ -103,7 +103,7 @@ Users can add, update, delete, and track task statuses efficiently in a
 structured CLI format.
 
 **Tech stack:**
-- C#\
+- C#
 - .NET Console
 
 ------------------------------------------------------------------------
@@ -121,4 +121,25 @@ Supports adding, listing, and categorizing expenses.
 **Tech stack:**
 - C#
 - .NET Console
+
+------------------------------------------------------------------------
+
+## 8. Unit Converter
+
+**Repository:**
+👉 https://github.com/yanamak89/UnitConvertorRazor
+
+**Description:**
+A simple ASP.NET Core Razor Pages app for converting length, weight, and temperature units.  
+Fully server-side logic, instant calculations, clean UI, and Docker deployment on Render.
+
+**Tech stack:**
+- C#
+- ASP.NET Core 8 Razor Pages
+- HTML/CSS/JS
+- Docker + Render
+
+**Live Demo:**
+https://unitconvertorrazor-q6t1.onrender.com
+
 

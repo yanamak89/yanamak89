@@ -7,8 +7,9 @@ My work demonstrates strong engineering skills across three domains - **Automati
 - 🔧 C#, .NET, ASP.NET, MVC
 - 🛠 Java, Entity Framework, SQL
 - 🌐 HTML, CSS, JavaScript
-- 🔬 PlayWright, Selenium, RestAPI, Postman, Docker
-- ☁️ Azure DevOps, CI/CD, Git
+- 🔬 PlayWright, Selenium, jasmine, 
+-    RestAPI, Postman
+- ☁️ Azure DevOps, gitHub Actions, Docker, CI/CD, Git
 
 ## My Portfolios
 1. [QA and Automation QA Portfolio](https://github.com/yanamak89/yanamak89/blob/main/Automation_QA_Portfolio_README.md) —  complete demonstration of my QA engineering approach, including deep exploratory testing, structured test design, automation architecture built from scratch, and end-to-end testing using Playwright, Selenium, API testing, and CI/CD.

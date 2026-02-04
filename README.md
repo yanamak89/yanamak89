@@ -7,8 +7,9 @@ My work demonstrates strong engineering skills across three domains - **Automati
 - 🔧 C#, .NET, ASP.NET, MVC
 - 🛠 Java, Entity Framework, SQL
 - 🌐 HTML, CSS, JavaScript
-- 🔬 PlayWright, Selenium, jasmine, 
--    RestAPI, Postman
+- 🔬 PlayWright, Selenium, 
+- Jasmine, Jest(RestJS), MochaJs 
+- RestAPI, Postman
 - ☁️ Azure DevOps, gitHub Actions, Docker, CI/CD, Git
 
 ## My Portfolios

@@ -1,25 +1,56 @@
 # Hello! 👋 I'm Yana Makogon
 
-Software engineer with **9+ years of experience in QA, automation, and software development**.  
-I bring a **full-stack quality mindset** to every project - building scalable automation frameworks, developing maintainable backend services with **.NET**, and creating **clean, responsive front-end interfaces**.
+**Full-stack JavaScript Engineer (React, Node.js)** with 9+ years of experience in IT and a strong background in QA automation.
 
-My work demonstrates strong engineering capability across three domains: **Automation QA**, **Front-end development**, and **.NET Back-end engineering**, reflecting my ability to analyse systems, design robust solutions, and deliver maintainable, production-ready software.
+I design and build scalable web applications with a focus on system reliability, performance, and maintainable architecture.
 
-## Technologies and Skills
-- 🔧 C#, .NET, ASP.NET Core, MVC  
-- 🛠 Java, Entity Framework, SQL  
-- 🌐 HTML, CSS, JavaScript, Tailwind CSS, React  
-- 🔬 Playwright, Selenium  
-- 🧪 Jest, Jasmine, Mocha  
-- 🔗 REST API testing, Postman  
-- ☁️ Azure DevOps, GitHub Actions, Docker, CI/CD, Git  
+With a deep understanding of testing and system behaviour, I develop solutions that are robust, production-ready, and resilient to edge cases.
 
-## My Portfolios
-1. [QA and Automation QA Portfolio](https://github.com/yanamak89/yanamak89/blob/main/Automation_QA_Portfolio_README.md) — demonstration of my **quality engineering approach**, including exploratory testing, structured test design, automation frameworks built from scratch, and end-to-end testing with Playwright, Selenium, API testing, and CI/CD pipelines.
-   
-2. [Front-end Portfolio](https://github.com/yanamak89/yanamak89/blob/main/Frontend_Portfolio_README.md) — projects demonstrating **clean, accessible and responsive UI**, semantic HTML, modern layout systems (Flexbox & Grid), Tailwind CSS architecture, and interactive applications built with JavaScript and React.
-  
-3. [Back-end Portfolio](https://github.com/yanamak89/yanamak89/blob/main/Backend_Portfolio_README.md) — .NET/C# projects showcasing ASP.NET Core CRUD applications, layered service architecture, EF Core modelling with repository patterns, CLI tools demonstrating algorithmic thinking, and maintainable backend design.
+🚀 Currently building full-stack applications with React, Node.js, REST APIs, and database-driven architecture.
+
+---
+
+## 🧰 Technologies
+
+🌐 **Frontend**:React, JavaScript, HTML, CSS, Tailwind CSS  
+
+⚙️ **Backend**: Node.js, Express, ASP.NET Core, C#  
+
+🗄️ **Database**: SQL, NoSQL  
+
+🧪 **Testing**: Playwright, Selenium  
+
+🔗 **APIs**: REST APIs  
+
+☁️ **DevOps & Tools**: Docker, CI/CD, GitHub Actions, Git  
+
+---
+
+## 🚀 Featured Projects
+
+### 🏡 Real Estate Platform (React)
+🔗 https://github.com/yanamak89/realtor-platform-react  
+
+Responsive real estate application with property browsing, filtering, and user interaction.  
+Implemented state management, routing, and scalable UI architecture using React and Tailwind CSS.
+
+---
+
+### 🤖 AI Article Summariser (Chrome Extension)
+🔗 https://github.com/yanamak89/AI-Article-Summariser-Chrome-Extension  
+
+Chrome extension that summarises web content using AI APIs.  
+Implemented content scripts, background service workers, and extension architecture for data flow and async communication.
+
+---
+
+### ⚙️ Fullstack Application (Node.js)
+🛠 Node.js, REST API, Database, Authentication  
+
+Building a fullstack web application with authentication, backend API, and database integration.  
+Focused on clean architecture, scalability, and production-ready backend practices.
+
+---
 
 ## Education
 - **Bachelor of Software Development**, IU International University of Applied Sciences (Oct 2022 - Present)  

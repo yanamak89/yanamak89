@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Yana Makogon
 
-**Full-stack JavaScript Engineer (React, Node.js)** with 9+ years of experience in IT and a strong background in QA automation.
+**Quality Engineer & Product Developer at ScanNServe** with 9+ years of experience in IT and a strong background in QA automation.
 
 I build full-stack web applications with a focus on reliability, performance, and clean architecture.
 

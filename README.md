@@ -32,6 +32,20 @@ My focus is on maintainable architecture, input validation, error handling, and 
 
 ## 🚀 Featured Projects
 
+### 🎡 WonderWorld AI Chatbot (React + Express + OpenAI)
+Full-stack AI customer-support chatbot for a fictional theme park, using a local knowledge document to answer visitor questions.
+- Integrated the OpenAI Responses API with custom instructions and Markdown-based park information
+- Implemented conversation continuity using response IDs and an in-memory repository
+- Separated backend responsibilities into routes, controllers, services, and repositories
+- Added request validation with Zod and form handling with React Hook Form
+- Built a chat interface with Markdown rendering, typing indicators, automatic scrolling, and error feedback
+0 Organized the project with Bun workspaces and automated formatting with Prettier, Husky, and lint-staged
+
+Developed as a learning project based on Code with Mosh’s Build AI-Powered Apps course.
+
+🔗 GitHub: https://github.com/yanamak89/wonderworld-ai-chatbot 
+
+
 ### 🧠 Snippet Vault (Next.js + NestJS + MongoDB)
 
 Full-stack application for storing and managing snippets with search, filtering, pagination, and CRUD functionality.
@@ -44,7 +58,7 @@ Full-stack application for storing and managing snippets with search, filtering,
 - Deployed frontend (Vercel) and backend (Render) with MongoDB Atlas  
 
 🔗 GitHub: https://github.com/yanamak89/snippet-vault  
-🌍 Live: https://snippet-vault-silk.vercel.app
+
 
 ### 🏡 HomeHunt - Real Estate Listing Platform
 

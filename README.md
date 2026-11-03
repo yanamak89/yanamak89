@@ -20,7 +20,7 @@ My focus is on maintainable architecture, input validation, error handling, and 
 
 🧪 **Testing**: Playwright, Selenium  
 
-🔗 **APIs & Validation**: REST APIs  
+🔗 **APIs & Validation**: REST APIs, Zod 
 
 🤖 **AI Integration**: OpenAI Responses API, prompt engineering, context-based chatbot responses
 

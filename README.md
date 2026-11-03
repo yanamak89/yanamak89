@@ -14,15 +14,19 @@ With a deep understanding of testing and system behaviour, I develop solutions t
 
 🌐 **Frontend**: React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
 
-⚙️ **Backend**: Node.js (NestJS, Express), ASP.NET Core (C#)  
+⚙️ **Backend**: Node.js, Bun, NestJS, Express, ASP.NET Core (C#)  
 
 🗄️ **Database**: MongoDB, SQL, NoSQL  
 
 🧪 **Testing**: Playwright, Selenium  
 
-🔗 **APIs**: REST APIs  
+🔗 **APIs & Validation**: REST APIs  
+
+🤖 **AI Integration**: OpenAI Responses API, prompt engineering, context-based chatbot responses
 
 ☁️ **DevOps & Tools**: Docker, CI/CD, GitHub Actions, Git  
+
+🛠️ **Development Tools & Libraries**: Vite, React Hook Form, Prettier, Husky, lint-staged
 
 ---
 

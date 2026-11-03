@@ -1,12 +1,12 @@
 # Hello! 👋 I'm Yana Makogon
 
-**Quality Engineer & Product Developer at ScanNServe** with 9+ years of experience in IT and a strong background in QA automation.
+**Product Developer & Quality Engineer at ScanNServe** with 9+ years of IT experience and a strong background in QA automation.
 
-I build full-stack web applications with a focus on reliability, performance, and clean architecture.
+I build full-stack web applications with React, TypeScript, and Node.js, bringing a quality engineering mindset to product development.
 
-With a deep understanding of testing and system behaviour, I develop solutions that are robust, production-ready, and resilient to edge cases.
+My focus is on maintainable architecture, input validation, error handling, and testing real user flows and edge cases.
 
-🚀 Currently building full-stack applications with React, Node.js, REST APIs, and database-driven architecture.
+🚀 Currently developing ScanNServe and exploring AI-powered features with the OpenAI API.
 
 ---
 
